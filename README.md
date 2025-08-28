@@ -2,7 +2,7 @@
 
 一个使用 Cloudflare Pages 创建的 URL 缩短器
 
-*Demo* : [https://short-3ud.pages.dev/](https://short-3ud.pages.dev/)
+*Demo* : [https://a.891123.xyz/](https://a.891123.xyz/)
 
 
 ### 利用Tencent EdgeOne Pages 部署
@@ -10,7 +10,7 @@
 
 一键部署：
 
-[![Use EdgeOne Pages to deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/x-dr/short)
+[![Use EdgeOne Pages to deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/89112317/a)
 
 
 ### 利用Cloudflare pages部署
